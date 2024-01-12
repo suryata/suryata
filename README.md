@@ -20,6 +20,8 @@
     <a href="https://linkedin.com/in/in/suryaanahata" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/suryaanahata" height="30" width="40" />
     </a>
+    <a href="https://kaggle.com/suryata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suryata" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/madeputra415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madeputra415" height="30" width="40" /></a>
   </p>
 </div>
 

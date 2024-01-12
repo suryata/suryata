@@ -15,11 +15,14 @@
 - ⚡ Fun fact **I am Curious**
 
 <div align="center">
-<h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/in/suryaanahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/suryaanahata" height="30" width="40" /></a>
-</p>
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://linkedin.com/in/in/suryaanahata" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/suryaanahata" height="30" width="40" />
+    </a>
+  </p>
 </div>
+
 
 <div align="center">
 <h3>Languages and Tools:</h3>

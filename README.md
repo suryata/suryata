@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋+I'm+Surya+Anahata+!+👨‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋+I'm+Surya+Anahata+!+👨‍💻;" />
     </h1>
     <h3 align="center">A passionate software developer, currently studying at the University of Indonesia!</h3>
     <br>

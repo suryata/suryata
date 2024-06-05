@@ -15,18 +15,16 @@
 
 - 📫 How to reach me **madeputra415@gmail.com**
 
-- ⚡ Fun fact **I am Curious**
+- ⚡ Fun fact **I am very Curious **
 <br>
 </div>
     
 <div align="center">
         <h3 align="center">Connect with me:</h3>
         <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+            <a href="https://www.leetcode.com/madeputra415" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madeputra415" height="30" width="40" /></a>
             <a href="https://linkedin.com/in/in/suryaanahata" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/suryaanahata" height="30" width="40" /></a>
             <a href="https://kaggle.com/suryata" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suryata" height="30" width="40" /></a>
-            <a href="https://www.hackerrank.com/suryata" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suryata" height="30" width="40" /></a>
-            <a href="https://codeforces.com/profile/suryata21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suryata21" height="30" width="40" /></a>
-            <a href="https://www.leetcode.com/madeputra415" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madeputra415" height="30" width="40" /></a>
         </div>
 </div>
     <br>

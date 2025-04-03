@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, Vite**
 
-- 📫 How to reach me **madeputra415@gmail.com**
+- 📫 How to reach me **suryatawork@gmail.com**
 
 - ⚡ Fun fact: **I am very curious about software engineering**
 <br>
